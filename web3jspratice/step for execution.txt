@@ -1,0 +1,17 @@
+1)open the html page in broser 
+index_completed.html
+
+2)open ganach
+create a workspace 
+
+3)click on setting > server 
+
+4) change the port No to 8545
+
+5)reload the page in browser
+
+it automaticly take nodeinformation 
+
+blance of first account 
+
+here we can transfer money one aucount to outher account 
